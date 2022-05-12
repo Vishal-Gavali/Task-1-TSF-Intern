@@ -1,1 +1,2 @@
-Task-1 @ TSF intern
+Task-1 @TSF Intern
+prediction using supervised machine learning
